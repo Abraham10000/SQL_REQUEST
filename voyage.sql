@@ -1,0 +1,15 @@
+insert into voyage (id_voyage, jour_depart, heure_depart) values (82, '25/10/2021', '6:32 PM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (71, '7/10/2021', '9:38 AM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (75, '12/4/2022', '3:22 AM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (19, '22/9/2021', '11:13 PM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (16, '31/1/2022', '1:43 AM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (10, '7/3/2022', '11:25 PM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (86, '29/1/2022', '8:07 PM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (82, '18/9/2021', '2:20 PM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (1, '25/6/2021', '10:09 PM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (98, '2/7/2021', '7:12 AM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (97, '27/7/2021', '9:17 PM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (90, '4/11/2021', '1:49 PM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (86, '30/5/2022', '4:09 PM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (79, '11/8/2021', '2:14 PM');
+insert into voyage (id_voyage, jour_depart, heure_depart) values (15, '24/10/2021', '3:03 PM');

@@ -1,0 +1,15 @@
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (35, 'tsd-6609', 15, 17);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (16, 'txa-6000', 20, 22);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (30, 'tgi-8105', 22, 6);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (86, 'tja-2297', 2, 8);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (99, 'tzj-5430', 1, 14);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (68, 'tud-0481', 18, 20);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (12, 'tzd-8835', 10, 15);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (53, 'tbx-2329', 13, 25);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (32, 'tau-8624', 5, 9);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (80, 'tdm-8910', 25, 10);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (31, 'tmh-1610', 21, 25);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (4, 'tur-2258', 21, 8);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (39, 'tvm-1404', 25, 26);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (33, 'tgk-9089', 14, 27);
+insert into vehicule (id_vehicule, matricule, nombre_de_place, place_dispo) values (84, 'tbs-3669', 18, 12);
