@@ -1,0 +1,2 @@
+select jour_depart,heure_depart,nom_complet,contact_chauffeur,mail_chauffeur,matricule
+from voyage,chauffeur,vehicules;
